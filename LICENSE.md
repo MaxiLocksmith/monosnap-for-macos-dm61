@@ -1,4 +1,4 @@
-
+Enhance Monosnap for macOS with Monosnap for macOS exclusive Addon - custom-actions and snapshot-rollback, the #1 addon. Includes custom-actions and snapshot-rollback for a
 
 
 
